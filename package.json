@@ -27,10 +27,10 @@
   },
   "devDependencies": {
     "browserify": "^14.4.0",
-    "browserify-css": "^0.10.1",
-    "uglify-js": "^2.8.29",
+    "browserify-css": "^0.12.0",
+    "uglify-js": "^3.0.28",
     "vue": "^2.3.4",
-    "webpack": "^2.6.1"
+    "webpack": "^3.5.5"
   },
   "dependencies": {
     "tippy.js": "^1.1.3"
