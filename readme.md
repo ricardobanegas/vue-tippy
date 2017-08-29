@@ -1,5 +1,7 @@
 # vue-tippy
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/KABBOUCHI/vue-tippy.svg)](https://greenkeeper.io/)
+
 > Directive wrapper for Tippy.js
 
 ![](https://github.com/KABBOUCHI/vue-tippy/blob/master/preview.gif)
